@@ -3,3 +3,6 @@ Second line of the song
 third line
 forth line
 Privet poka
+
+
+How to delete commit
